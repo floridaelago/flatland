@@ -1,12 +1,12 @@
-# Flatland
+# Solarized - Flatland
 
 ## About
 
-Flatland is a simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from  [Soda](https://github.com/buymeasoda/soda-theme), the right place to start for any custom theme development for Sublime. Thanks Soda!
+This is a fork of the Flatland repo, I'm just changing the color scheme and some of the button colors.
 
 ## Design
 
-![Screen Shot!](https://raw.github.com/thinkpixellab/flatland/master/screenshots.png)
+  WIP
 
 
 ## Installation
